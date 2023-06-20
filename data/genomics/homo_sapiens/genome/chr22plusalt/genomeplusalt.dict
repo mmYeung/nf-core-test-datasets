@@ -1,0 +1,6 @@
+@HD	VN:1.0	SO:unsorted
+@SQ	SN:chr22	LN:40001	M5:1922b52e1af6977302717072ebaca0a1	UR:file:///scratch/users/myeung/nf-core-test-datasets/data/genomics/homo_sapiens/genome/chr22plusalt/genomeplusalt.fasta
+@SQ	SN:chr22_GL383582v2_alt	LN:162811	M5:1919a95f3ea48fde56ba925295086028	UR:file:///scratch/users/myeung/nf-core-test-datasets/data/genomics/homo_sapiens/genome/chr22plusalt/genomeplusalt.fasta
+@SQ	SN:chr22_GL383583v2_alt	LN:96924	M5:03ed78804fcfe33fb202c22d20e1ed05	UR:file:///scratch/users/myeung/nf-core-test-datasets/data/genomics/homo_sapiens/genome/chr22plusalt/genomeplusalt.fasta
+@SQ	SN:chr22_KI270878v1_alt	LN:186262	M5:07e6bd13f82b45996b0165c0a2c0ebb2	UR:file:///scratch/users/myeung/nf-core-test-datasets/data/genomics/homo_sapiens/genome/chr22plusalt/genomeplusalt.fasta
+@SQ	SN:chr22_KI270879v1_alt	LN:304135	M5:9fb8076a6ca93af66b2878d5cf07ebb0	UR:file:///scratch/users/myeung/nf-core-test-datasets/data/genomics/homo_sapiens/genome/chr22plusalt/genomeplusalt.fasta
